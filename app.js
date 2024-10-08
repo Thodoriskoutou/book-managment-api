@@ -21,5 +21,5 @@ mongoose.connect('mongodb+srv://admin:rjfgLAbYDw99UoAE@cluster0.teveqm9.mongodb.
 )
 .catch((err)=>console.log(err));
 
-//pass rjfgLAbYDw99UoAE user admin
+
 
